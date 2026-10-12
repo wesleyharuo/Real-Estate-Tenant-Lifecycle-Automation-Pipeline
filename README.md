@@ -1,4 +1,7 @@
 # Real-Estate-Tenant-Lifecycle-Automation-Pipeline
+
+<img width="2880" height="4614" alt="Tenant Lifecycle Command Center@2x" src="https://github.com/user-attachments/assets/5dfba68d-dc7c-467a-9a08-dd178695fbaf" />
+
 Project Overview
 Creation of an end-to-end integrated system for customer lifecycle management in the real estate sector, covering everything from initial lead qualification to the digital onboarding of new tenants.
 

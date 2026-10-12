@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🏢 Real Estate Tenant Lifecycle System
@@ -9,6 +10,8 @@
 
 ## 🚀 About the Project
 This project provides a comprehensive architecture designed to streamline and automate the entire tenant journey within the real estate market—from initial lead capture and conversion to onboarding, lease management, and post-occupancy retention[cite: 1]. It bridges the gap between raw operational data and streamlined workflows to optimize business performance.
+---
+<img width="2880" height="4614" alt="Tenant Lifecycle Command Center@2x" src="https://github.com/user-attachments/assets/03065d1b-5a09-40a1-80bb-92c344cfd230" />
 
 ---
 

@@ -1,30 +1,42 @@
-# Real-Estate-Tenant-Lifecycle-Automation-Pipeline
+<div align="center">
 
-<img width="2880" height="4614" alt="Tenant Lifecycle Command Center@2x" src="https://github.com/user-attachments/assets/5dfba68d-dc7c-467a-9a08-dd178695fbaf" />
+# 🏢 Real Estate Tenant Lifecycle System
+### An end-to-end integrated system for customer lifecycle management in the real estate sector[cite: 1].
 
-Project Overview
-Creation of an end-to-end integrated system for customer lifecycle management in the real estate sector, covering everything from initial lead qualification to the digital onboarding of new tenants.
+</div>
 
-Business Challenge
-Lead conversion in the real estate market relies heavily on response speed. Fragmented processes across sales outreach, credit checking, and lease signing create friction, result in missed opportunities, and delay key handovers.
+---
 
-Technical Architecture & Implementation
-Lead Qualification: Automated lead capture, data enrichment, and scoring workflows targeting prospective tenants based on financial and behavioral criteria.
+## 🚀 About the Project
+This project provides a comprehensive architecture designed to streamline and automate the entire tenant journey within the real estate market—from initial lead capture and conversion to onboarding, lease management, and post-occupancy retention[cite: 1]. It bridges the gap between raw operational data and streamlined workflows to optimize business performance.
 
-Automated Onboarding: Integrated workflows that request, validate, and securely store proof of income and background check documents, minimizing manual bureaucracy.
+---
 
-Data Centralization: Consolidated conversion rates, vacancy metrics, and pipeline stages into interactive executive dashboards.
+## ✨ Key Features & Business Value
+* **Lead-to-Lease Automation:** Streamlines the conversion pipeline, reducing administrative overhead and accelerating deal closure.
+* **Tenant Lifecycle Tracking:** Centralizes contract histories, maintenance logs, and payment patterns into a unified interface.
+* **Data-Driven Operations:** Minimizes manual interventions through automated data processing and status tracking.
 
-Key Technologies Used
-Workflow Automation: n8n, Python scripts for data parsing
+---
 
-Data Storage: Relational database integration (PostgreSQL)
+## 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
-Reporting: Looker Studio / Power BI
+---
 
-Results and Impact
-Increased lead conversion rates through immediate response handling and automated triage.
+## ⚙️ Architecture & Workflow
+1. **Acquisition Layer:** Captures real estate leads and prospective tenant data[cite: 1].
+2. **Processing Layer:** Validates and manages lifecycles securely using robust backend APIs.
+3. **Persistence Layer:** Stores relational records ensuring data integrity and fast retrieval.
 
-Drastically reduced average lease closing times (time-to-lease).
+---
 
-Ensured legal compliance and high security standards in handling sensitive client information.
+## 📬 Contact
+Feel free to reach out or connect if you have any questions about this architecture or project implementation!
+
+* **GitHub:** [@wesleyharuo](https://github.com/wesleyharuo)
